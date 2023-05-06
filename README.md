@@ -11,5 +11,5 @@ Dataset is from Noon, which is a large online marketplace in the Middle East, an
 
 -----
 ### Tools 
- - Languages: Python, SQL, HTML & CSS, JavaScript (React.js)
- - Software: Lucidspark, Azure Data Studio, Docker, Anaconda, Visual Studio Code
+ - Languages: Python, SQL, HTML & CSS, JavaScript
+ - Software: Lucidspark, Azure Data Studio, Docker, Anaconda, Visual Studio Code, React.js
