@@ -3,7 +3,7 @@ Personalized fragrance: an AI-powered platform that allows customers to create t
 
 Dataset is from Noon, is a large online marketplace in the Middle East, and this dataset shows the scent notes of perfume in different brands.
 
- - Languages: Python, SQL, HTML & CSS, (React.js, Node.js)
+ - Languages: Python, SQL, HTML & CSS, (React.js)
  - Software: Lucidchart, Azure Data Studio, Docker, 
 
 ### Project Workflow
