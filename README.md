@@ -7,5 +7,6 @@ Dataset is from Noon, is a large online marketplace in the Middle East, and this
  - Software: Lucidchart, Azure Data Studio, Docker, 
 
 ### Project Workflow
-![ScentAI](./images/ScentAI.png)
+<img src="./images/ScentAI.png" alt="ScentAI" width="400"/>
+
 
