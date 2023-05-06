@@ -7,4 +7,4 @@ Dataset is from Noon, is a large online marketplace in the Middle East, and this
  - Software: Lucidchart, Azure Data Studio, Docker, 
 
 ### Project Workflow
-!(file:///Users/jomaicaalfiler/Desktop/ScentAI/ScentAI.png)
+!(https://lucid.app/lucidspark/2e90b6ec-512b-45c1-9f37-60d86e317cbe/edit?viewport_loc=-365%2C864%2C4747%2C2464%2C0_0&invitationId=inv_dde2c4fb-0188-435d-ab6f-4955b18db24f)
