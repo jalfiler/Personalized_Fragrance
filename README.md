@@ -7,7 +7,10 @@ Dataset is from Noon, which is a large online marketplace in the Middle East, an
 
 ### Model
 
-Cosine Similarity Model:
+##### Cosine Similarity Model:
+
+![animated gif](https://cdn-images-1.medium.com/v2/resize:fit:579/1*5hJibEtQPavnbgRxg8w2Fg.gif)
+
 Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction (more on sciencedirect).
 
 -----
