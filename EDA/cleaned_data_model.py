@@ -5,7 +5,7 @@ Created on Sat May  6 23:28:36 2023
 
 @author: jomaicalei
 
-We will be using this cleaned dataset for our building our models
+We will be using this cleaned dataset for building our models
 """
 
 import pandas as pd
